@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(160, 226, 195);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 229px; 
+    height: 170px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: rgb(177, 85, 24);
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+h2 {
+    color: rgb(177, 85, 24);
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h5 {
+    text-align: center;
+}
+
+/* .devour {
+    height: 40px;
+} */
+
+button {
+    text-align: center;
+    height: 40px;
+    width: 135px;
+}
+
+.devoured {
+    background-color: rgb(165, 164, 164);
+}
+
+#burgerSubmit {
+    background-color: #286090;
+    color: #ffffff;
+    width: 140px;
+    margin: 20px;
+}
+
+#burgerText {
+    height: 40px;
+    width: 200px;
+}
+
+.row-submit {
+    text-align: center;
+}
+
+.glyphicon {
+    color: rgb(0, 128, 0);
+    font-size: 40px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(65, 145, 215);
+    color: #000000;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
